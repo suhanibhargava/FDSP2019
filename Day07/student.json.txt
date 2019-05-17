@@ -1,0 +1,25 @@
+[{
+		"St id": 1011,
+		"First Name": "Saharsh",
+		"Last Name": "Agarwal",
+		"Department": "Cse",
+		"Semester": 2,
+		"Hostel": true,
+		"Backlogs": null,
+		"Co-curricular": ["Football", "MUN"]
+
+	},
+
+
+	{
+		"St id": 1245,
+		"First Name": "Misha",
+		"Last Name": "Sharma",
+		"Department": "EE",
+		"Semester": 7,
+		"Hostel": false,
+		"Backlogs": 1,
+		"Co-curricular": ["Table Tennis", "Dance"]
+
+	}
+]

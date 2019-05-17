@@ -1,0 +1,40 @@
+[{
+
+		"First name": "Amit",
+		"Last name": "Sharma",
+		"Photo": "https://www.google.com/search?q=professor+photos&tbm=isch&source=iu&ictx=1&fir=dtIaH4dpF439KM%253A%252CKjtE7CFA3YiTHM%252C_&vet=1&usg=AI4_-kTEeY_xPz9mYgOddLEk06f-c2aaTA&sa=X&ved=2ahUKEwj79MrKoJriAhUmTY8KHZxrAxgQ9QEwBHoECAgQDA#imgrc=dtIaH4dpF439KM:&vet=1",
+		"Department": "CSE",
+		"Research Areas": ["Big Data", "Networking"],
+		"Contact Details": {
+			"Phone number": [3645738243, 86749426354],
+			"email id": "amit65@gmail.com"
+		}
+
+	},
+	{
+		"First name": "Anjali",
+		"Last name": "Singh",
+		"Photo": "https://www.google.com/search?q=professor+photos&tbm=isch&source=iu&ictx=1&fir=dtIaH4dpF439KM%253A%252CKjtE7CFA3YiTHM%252C_&vet=1&usg=AI4_-kTEeY_xPz9mYgOddLEk06f-c2aaTA&sa=X&ved=2ahUKEwj79MrKoJriAhUmTY8KHZxrAxgQ9QEwBHoECAgQDA#imgrc=TnnZKrls3ErzdM:&vet=1",
+		"Department": "ECE",
+		"Research Areas": ["Embedded Systems", "Integrated Circuits"],
+		"Contact Details": {
+			"Phone number": [2355980564, 4538606217],
+			"email id": "iamanjali@gmail.com"
+		}
+
+	},
+	{
+		"First name": "Hemant",
+		"Last name": "Kumar",
+		"Photo": "https://www.google.com/search?q=professor+photos&tbm=isch&source=iu&ictx=1&fir=gLLUS9w-4N9pGM%253A%252CKjtE7CFA3YiTHM%252C_&vet=1&usg=AI4_-kSyOFdQURY1iA0dM2WwbJd-TMQHcg&sa=X&ved=2ahUKEwj79MrKoJriAhUmTY8KHZxrAxgQ9QEwA3oECAgQCg#imgrc=gLLUS9w-4N9pGM:",
+		"Department": "CSE",
+		"Research Areas": "Databases",
+		"Contact Details": {
+			"Phone number": [6353278690, 6573425869],
+			"email id": "hemantcse@gmail.com"
+		}
+
+	}
+
+
+]
